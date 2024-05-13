@@ -3,6 +3,7 @@
 This is a research based project on Driver Drowsiness Detection based on Machine Learning models using CNN, this was a group project carried under the supervision of a guide where we reviewed various methods of the Driver Drowsiness and implemented the same, we executed four models where we replicated 2 CNN models from papers previously published and then one custom architecture and one VGG19 model and compared the results of all these different models with our selected dataset.
 
 ## Models Implemented
+(The notebooks might take some to load on your device)
 
 1. **Model 1 - Custom CNN Architecture (Implemented by Kaustubh)**
    - Link: [Model 1 - Custom CNN Architecture](https://www.kaggle.com/code/sanketdeb/fork-of-model1)
