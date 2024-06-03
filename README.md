@@ -31,7 +31,7 @@ The project utilizes the following dataset:
 To view the complete project report in PDF format, please refer to the attached document in this repository.
 
 ## Other Contributors
-- Kaustubh Ratna
+- [Kaustubh Ratna](https://www.linkedin.com/in/kaustubh-ratna-72257520a/?originalSubdomain=in)
   
 
 
