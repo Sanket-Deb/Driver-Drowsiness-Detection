@@ -22,6 +22,11 @@ The project utilizes the following dataset:
 - **Yawn and Eye Dataset**: A dataset used for drowsiness detection.
   - Link: [Yawn and Eye Dataset](https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new)
 
+## Overview
+- Implemented machine learning techniques to validate, split, and manipulate data for drowsiness detection, to increase model accuracy and robustness.
+- Utilized Convolutional Neural Networks (CNNs) to assess driver drowsiness by analyzing eye and mouth data. Enhanced driver drowsiness detection with a chosen dataset.
+- Visualized the results to compare and contrast the models and proposed a multimodal deep learning system for adaptability.
+
 ## Project Report
 To view the complete project report in PDF format, please refer to the attached document in this repository.
 
