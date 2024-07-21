@@ -5,17 +5,17 @@ This is a research based project on Driver Drowsiness Detection based on Machine
 ## Models Implemented
 (The notebooks might take some to load on your device)
 
-1. **Model 1 - Custom CNN Architecture (Implemented by Kaustubh)**
-   - Link: [Model 1 - Custom CNN Architecture](https://www.kaggle.com/code/sanketdeb/fork-of-model1)
+1. **Model 1 - CNN Architecture replicated from paper Savas et al. (2020)**
+   - Link: [Model 1 - Replicated CNN Architecture](https://www.kaggle.com/code/sanketdeb/model2)
 
 2. **Model 2 - CNN Architecture replicated from paper Savas et al. (2020)**
-   - Link: [Model 2 - Replicated CNN Architecture](https://www.kaggle.com/code/sanketdeb/model2)
+   - Link: [Model 2 - Replicated CNN Architecture](https://www.kaggle.com/code/sanketdeb/model3)
 
-3. **Model 3 - CNN Architecture replicated from paper Savas et al. (2020)**
-   - Link: [Model 3 - Replicated CNN Architecture](https://www.kaggle.com/code/sanketdeb/model3)
-
-4. **Model 4 - VGG19 Architecture**
-   - Link: [Model 4 - VGG19 Architecture](https://www.kaggle.com/code/sanketdeb/model4)
+3. **Model 3 - VGG19 Architecture**
+   - Link: [Model 3 - VGG19 Architecture](https://www.kaggle.com/code/sanketdeb/model4)
+   
+4. **Model 4 - Custom CNN Architecture (Implemented by Kaustubh)**
+   - Link: [Model 4 - Custom CNN Architecture](https://www.kaggle.com/code/sanketdeb/fork-of-model1)
 
 ## Dataset
 The project utilizes the following dataset:
